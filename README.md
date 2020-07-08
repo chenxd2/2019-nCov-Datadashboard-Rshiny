@@ -8,15 +8,20 @@ addition to provide the worldwide disease distribution map, the interactive web-
 anchors, reshape2, lubridate
 * Style: RColorBrewer, shinythemes 
 ### Preview:
+
+![Image1](Picture1.png)
 Total four maps/graphs are provided by the web app: Worldwide 2019- nCoV Confirmed and
-Recovery Trend at the left bottom panel (Figure 3), China/US/Global Disease Distribution Maps at
-the right tabset panel (Figure 1 and Figure 2). The slider at the left side selects a specific date of the
+Recovery Trend at the left bottom panel, China/US/Global Disease Distribution Maps at
+the right tabset panel. The slider at the left side selects a specific date of the
 distribution. The confirmed number will appear once the reader clicks on the geological area.
+![Image1](Picture2.png)
+![Image1](Picture3.png)
 All maps use same color scale. The cut points
 are determined by the distribution so that any
 time and space variations would be highlighted.
 Note that some countries do not have any 2019-
-nCoV cases reported. Those area
+nCoV cases reported. 
+![Image1](Picture4.png)
 ### Discussion:
 Current interactive dashboard utilizes 2019-
 nCoV data from January 22 to March 3rd.
